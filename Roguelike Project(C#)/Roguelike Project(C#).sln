@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roguelike Project(C#)", "Assembly-CSharp-firstpass.csproj", "{8187B281-6C99-0514-1193-C3A696566E6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roguelike Project(C#)", "Assembly-CSharp.csproj", "{3A439734-B4CD-567E-E920-660EBF1A3D20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roguelike Project(C#)", "Assembly-CSharp-Editor.csproj", "{77F73383-5DAE-901F-D129-B852AADD0A22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8187B281-6C99-0514-1193-C3A696566E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8187B281-6C99-0514-1193-C3A696566E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8187B281-6C99-0514-1193-C3A696566E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8187B281-6C99-0514-1193-C3A696566E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A439734-B4CD-567E-E920-660EBF1A3D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A439734-B4CD-567E-E920-660EBF1A3D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A439734-B4CD-567E-E920-660EBF1A3D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A439734-B4CD-567E-E920-660EBF1A3D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F73383-5DAE-901F-D129-B852AADD0A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F73383-5DAE-901F-D129-B852AADD0A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F73383-5DAE-901F-D129-B852AADD0A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F73383-5DAE-901F-D129-B852AADD0A22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

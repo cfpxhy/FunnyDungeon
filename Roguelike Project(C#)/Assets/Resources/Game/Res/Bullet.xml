@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Bullet>
+  <Player>
+    <ID>1</ID>
+    <url>Game/Prefabs/Bullet/PlayerBullet</url>
+  </Player>
+  <Enemy>
+    <ID>1</ID>
+    <url>Game/Prefabs/Bullet/EnemyBubbleMoveBullet</url>
+  </Enemy>
+  <Boss>
+    <ID>1</ID>
+    <url>Game/Prefabs/Bullet/BubbleBossBullet</url>
+  </Boss>
+</Bullet>

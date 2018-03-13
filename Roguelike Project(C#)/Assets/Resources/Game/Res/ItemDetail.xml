@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<ItemDetail>
+  <BluePotion>
+    <Name>蓝药水</Name>
+    <Effect>增加射速</Effect>
+    <Limit>4</Limit>
+    <Type>被动道具</Type>
+  </BluePotion>
+  <Shoes>
+    <Name>飞鞋</Name>
+    <Effect>增加移动速度</Effect>
+    <Limit>3</Limit>
+    <Type>被动道具</Type>
+  </Shoes>
+  <PinkPotion>
+    <Name>粉药水</Name>
+    <Effect>增加射击面积</Effect>
+    <Limit>2</Limit>
+    <Type>被动道具</Type>
+  </PinkPotion>
+  <ColourPotion>
+    <Name>五彩药水</Name>
+    <Effect>一定时间的无敌</Effect>
+    <Limit>1</Limit>
+    <Type>主动道具</Type>
+  </ColourPotion>
+  <Clock>
+    <Name>闹钟</Name>
+    <Effect>时间停止(对BOSS无效)</Effect>
+    <Limit>1</Limit>
+    <Type>主动道具</Type>
+  </Clock>
+  <Bulb>
+    <Name>灯泡</Name>
+    <Effect>增加光照范围</Effect>
+    <Limit>2</Limit>
+    <Type>被动道具</Type>
+  </Bulb>
+  <Paper>
+    <Name>地图</Name>
+    <Effect>一定时间的全屏视野</Effect>
+    <Limit>1</Limit>
+    <Type>主动道具</Type>
+  </Paper>
+</ItemDetail>

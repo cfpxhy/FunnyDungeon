@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Effect>
+  <Enemy>
+    <ID>1</ID>
+    <url>Game/Prefabs/Effect/Enemy/GenerationEffect</url>
+  </Enemy>
+  <Enemy>
+    <ID>2</ID>
+    <url>Game/Prefabs/Effect/Enemy/DeadEffect</url>
+  </Enemy>
+  <Enemy>
+    <ID>3</ID>
+    <url>Game/Prefabs/Effect/Enemy/BubbleSinisterAttackEffect</url>
+  </Enemy>
+  <Enemy>
+    <ID>4</ID>
+    <url>Game/Prefabs/Effect/Enemy/BubbleAngryAttackEffect</url>
+  </Enemy>
+  <Boss>
+    <ID>1</ID>
+    <url>Game/Prefabs/Effect/Enemy/Boss/MarkEffect</url>
+  </Boss>
+  <Boss>
+    <ID>2</ID>
+    <url>Game/Prefabs/Effect/Enemy/Boss/ThunderEffect</url>
+  </Boss>
+  <Bonfire>
+    <ID>1</ID>
+    <url>Game/Prefabs/Effect/BonfireEffect</url>
+  </Bonfire>
+</Effect>

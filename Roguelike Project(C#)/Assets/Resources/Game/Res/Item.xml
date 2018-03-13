@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Item>
+  <Prop>
+    <ID>1</ID>
+    <url>Game/Prefabs/Item/BluePotion</url>
+  </Prop>
+  <Prop>
+    <ID>2</ID>
+    <url>Game/Prefabs/Item/Shoes</url>
+  </Prop>
+  <Prop>
+    <ID>3</ID>
+    <url>Game/Prefabs/Item/PinkPotion</url>
+  </Prop>
+  <Prop>
+    <ID>4</ID>
+    <url>Game/Prefabs/Item/ColourPotion</url>
+  </Prop>
+  <Prop>
+    <ID>5</ID>
+    <url>Game/Prefabs/Item/Clock</url>
+  </Prop>
+  <ShineProp>
+    <ID>1</ID>
+    <url>Game/Prefabs/Item/BluePotion</url>
+  </ShineProp>
+  <ShineProp>
+    <ID>2</ID>
+    <url>Game/Prefabs/Item/Shoes</url>
+  </ShineProp>
+  <ShineProp>
+    <ID>3</ID>
+    <url>Game/Prefabs/Item/PinkPotion</url>
+  </ShineProp>
+  <ShineProp>
+    <ID>4</ID>
+    <url>Game/Prefabs/Item/ColourPotion</url>
+  </ShineProp>
+  <ShineProp>
+    <ID>5</ID>
+    <url>Game/Prefabs/Item/Bulb</url>
+  </ShineProp>
+  <ShineProp>
+    <ID>6</ID>
+    <url>Game/Prefabs/Item/Paper</url>
+  </ShineProp>
+</Item>
